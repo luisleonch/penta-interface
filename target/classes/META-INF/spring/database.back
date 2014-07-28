@@ -1,0 +1,14 @@
+database.driverClassName=oracle.jdbc.driver.OracleDriver
+database.url=jdbc\:oracle\:thin\:@VA01ERP01\:1521\:PROD
+database.username=pti_prod
+database.password=fhemzkt7
+-----------------------------------------------------------------
+database.driverClassName=oracle.jdbc.driver.OracleDriver
+database.url=jdbc\:oracle\:thin\:@VA02ERP02\:1521\:STAGE
+database.username=pti_prod
+database.password=fhemzkt7
+-----------------------------------------------------------------
+database.driverClassName=com.mysql.jdbc.Driver
+database.url=jdbc\:mysql\://localhost\:3306/spring_colonial_dbv5
+database.username=root
+database.password=luchoman2014
